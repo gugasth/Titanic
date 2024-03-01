@@ -2,7 +2,7 @@
 This is my automl resolution of the competition "Titanic - Machine Learning from Disaster".
 https://www.kaggle.com/competitions/titanic
 
-✨ In search of 100% haha!
+✨ In search of 100%!
 
 Now my best submission is 0.80382
 
