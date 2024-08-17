@@ -1,5 +1,5 @@
 # Titanic
-This is my automl resolution of the competition "Titanic - Machine Learning from Disaster".
+This is my machine learning resolution of the competition "Titanic - Machine Learning from Disaster".
 https://www.kaggle.com/competitions/titanic
 
 ✨ In search of 100%!
